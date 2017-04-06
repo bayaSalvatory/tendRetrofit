@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tendDemo</string>
+    <string name="name">이름: %1$s</string>
+    <string name="descr">기술: %1$s</string>
+</resources>
